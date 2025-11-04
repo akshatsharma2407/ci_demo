@@ -3,6 +3,7 @@ def add(a, b):
 
 
 def sub(a, b):
+    """sub func"""
     return a - b
 
 
